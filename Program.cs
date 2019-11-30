@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("第一次GitHub版本測試");
+            
+            Console.WriteLine("第二次C#測試");
             Console.ReadKey();
         }
     }
