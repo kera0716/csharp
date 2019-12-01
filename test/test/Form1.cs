@@ -19,7 +19,7 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            label1.Text = "按下Button";
         }
     }
 }
